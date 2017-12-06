@@ -105,3 +105,4 @@ data/
 .DS_Store
 .vscode/
 .idea/
+MNIST_data/
