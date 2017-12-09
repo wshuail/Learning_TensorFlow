@@ -6,6 +6,11 @@
 3. batch normalization
 4. distribution
 5. cross entropy
+6. control flow
+7. gradient 
+8. scope
+9. feed data
+10. more...
 
 ## 2. CNN
 1. Basic CNN for MNIST
